@@ -1,0 +1,11 @@
+.picture{
+    width:inherit;
+    height:inherit;
+    border-radius: 5%;
+    padding: 20%;
+    padding-left: inherit;
+    padding-top: inherit;
+    padding-bottom: inherit;
+    padding-right: inherit;
+    margin-bottom: 3%;
+}
