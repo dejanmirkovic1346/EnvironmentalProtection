@@ -1,11 +1,24 @@
 .picture{
     width:inherit;
-    height:inherit;
-    border-radius: 5%;
-    padding: 20%;
-    padding-left: inherit;
-    padding-top: inherit;
-    padding-bottom: inherit;
-    padding-right: inherit;
-    margin-bottom: 3%;
+    height:220px;
+    border-radius: 10%;
+    margin-top: 10%;
+    margin-left: 10%;
+    margin-right: 10%;  
+}
+
+body {
+    background-image: url('../Pictures/sky.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: inherit;
+}
+
+#paragraph{
+    position: inherit;
+    font-weight: bold;
+    width: 50;
+    margin-left: 10%;
+    margin-top: 10%;
 }
