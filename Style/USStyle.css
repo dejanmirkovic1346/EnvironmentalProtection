@@ -1,0 +1,52 @@
+#paragraph{
+    color:white;
+    font-weight: bold;
+    margin-top: 7%;
+    font-style: oblique;
+}
+
+#picture{
+    width:inherit;
+    height:inherit;
+    border-radius: 5%;
+    padding: 20%;
+    padding-left: inherit;
+    padding-top: inherit;
+    padding-bottom: inherit;
+    padding-right: inherit;
+}
+
+#picture2{
+    width:inherit;
+    height:inherit;
+    border-radius: 5%;
+    padding: 20%;
+    padding-left: inherit;
+    padding-top: inherit;
+    padding-bottom: 10%;
+    padding-right: inherit;
+}
+
+#pictureuser{
+    width:inherit;
+    padding: 20%;
+}
+
+body{
+    background-image: url('../Pictures/US.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+#footerstyle{
+ background-color: rgb(94, 93, 93);
+}
+#title{
+    text-align: center;
+    font-size: 50px;
+    color: white;
+    font-family: "Times New Roman", Times, serif;
+    margin-bottom: 2%;
+    margin-top: 2%;
+    font-weight:bold ;
+}

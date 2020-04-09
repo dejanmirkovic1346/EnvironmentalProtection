@@ -9,7 +9,7 @@
 }
 
 body{
-    background-image: url('../Pictures/smoke.jpg');
+    background-image: url('../Pictures/road2.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
@@ -19,6 +19,7 @@ body{
     color:white;
     font-weight: bold;
     margin-top: 7%;
+    font-style: oblique;
 }
 
 .picture{
@@ -30,9 +31,12 @@ body{
     padding-top: inherit;
     padding-bottom: inherit;
     padding-right: inherit;
-    
 }
 
+#pictureuser{
+    width:inherit;
+    padding: 20%;
+}
 .navbar-brand {
     display: inline-block;
     padding-top: .3125rem;
@@ -42,3 +46,7 @@ body{
     line-height:!150px;
     white-space: nowrap;
 }
+
+#footerstyle{
+    background-color: rgb(94, 93, 93);
+   }

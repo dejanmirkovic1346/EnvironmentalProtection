@@ -2,13 +2,28 @@
     width:inherit;
     height:220px;
     border-radius: 10%;
+    margin-top: 10%; 
+}
+
+#row{
+    margin-left: 0%;
+    margin-right: 0%;
+}
+.pictureend{
+    width:inherit;
+    height:220px;
+    border-radius: 10%;
     margin-top: 10%;
-    margin-left: 10%;
-    margin-right: 10%;  
+    margin-bottom: 10%;
+}
+
+#pictureuser{
+    width:inherit;
+    padding: 20%;
 }
 
 body {
-    background-image: url('../Pictures/sky.png');
+    background-image: url('../Pictures/road.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
@@ -16,9 +31,17 @@ body {
 }
 
 #paragraph{
+    color:black;
     position: inherit;
     font-weight: bold;
     width: 50;
     margin-left: 10%;
     margin-top: 10%;
+    font-style: oblique;
+    padding-right: 0%;
 }
+
+#footerstyle{
+    background-color: rgb(94, 93, 93);
+   }
+   

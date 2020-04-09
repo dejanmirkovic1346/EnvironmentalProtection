@@ -1,13 +1,11 @@
-
-  
-  body {
-	background-image: url('../Pictures/sky.png');
-	background-repeat: no-repeat;
+body{
+    background-image: url('../Pictures/Login.png');
+    background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
-  }
-  
-  a {
+}
+
+a {
 	color: #92badd;
 	display:inline-block;
 	text-decoration: none;
@@ -23,8 +21,6 @@
 	margin: 40px 8px 10px 8px; 
 	color: #cccccc;
   }
-  
-  
   
   /* STRUCTURE */
   
@@ -61,8 +57,6 @@
 	border-radius: 0 0 10px 10px;
   }
   
-  
-  
   /* TABS */
   
   h2.inactive {
@@ -73,8 +67,6 @@
 	color: #0d0d0d;
 	border-bottom: 2px solid #5fbae9;
   }
-  
-  
   
   /* FORM TYPOGRAPHY*/
   
@@ -141,8 +133,6 @@
   input[type=text]:placeholder {
 	color: #cccccc;
   }
-  
-  
   
   /* ANIMATIONS */
   
@@ -246,8 +236,6 @@
 	width: 100%;
   }
   
-  
-  
   /* OTHERS */
   
   *:focus {
@@ -257,4 +245,3 @@
   #icon {
 	width:60%;
   }
-  
